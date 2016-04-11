@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" ?>
   <widget xmlns   = "http://www.w3.org/ns/widgets"
       xmlns:gap   = "http://phonegap.com/ns/1.0"
-	  id          = "com.phonegap.example1"
+	  id          = "com.phonegap.example2"
 	  versionCode = "10"
 	  version     = "1.0.0" >
 	  
   <!-- versionCode is optional and Android only -->
   
-  <name>Apliccion uno DATOSALUMNOS</name>
+  <name>semana santa</name>
   
   <description>
-      Apliccion que muestra los DATOS del alumno 
+      Apliccion que muestra detalles de la semana santa
   </description>
 
   <preferent name="phonegap-version" value="3.1.0" /> 
